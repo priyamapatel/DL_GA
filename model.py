@@ -1,6 +1,8 @@
 #Date 09-12-2024
 #Author- Priyam Patel
 # This is the model code for WAA with Variance term
+import torchvision
+import torch.nn as nn
 class MobnetV3_WAA_variance(nn.Module):
         
         def __init__(self):
