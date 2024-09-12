@@ -1,5 +1,5 @@
 #Date 09-12-2024
-Author- Priyam Patel
+#Author- Priyam Patel
 # This is the model code for WAA with Variance term
 class MobnetV3_WAA_variance(nn.Module):
         
